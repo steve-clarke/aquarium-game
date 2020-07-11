@@ -7,7 +7,7 @@ collectively satisfy a number of constraints.
 
 A typical empty puzzle and solution is shown below.
 
-![example]()
+![example](https://raw.githubusercontent.com/steve-clarke/aquarium-game/master/src/main/resources/solutions/Example.png)
 
 The game takes place on a square grid of spaces.
 Each aquarium is marked by thick red lines. The above puzzle has six aquariums.
